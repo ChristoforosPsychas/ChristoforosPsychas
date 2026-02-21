@@ -1,4 +1,4 @@
-**Hi, I'm Christoforos Psychas**
+### Hi, I'm Christoforos Psychas
 
 - 🖥️ Front-end developer building interfaces with **React**, **JavaScript**, **TypeScript**, and **Tailwind CSS**
 - 🧹 I care about writing code that's readable and well-structured — not just functional
